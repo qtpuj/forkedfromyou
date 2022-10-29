@@ -3,7 +3,7 @@ EC2 : Elastic Compute Cloud :
 Instance = Server = Box = Azure VM = GCP Engine
 
 
-Pay-as-you-go machanism..!! 
+Pay-as-you-go mechanism..!! 
 
 ____________________________________________________________________________________
 D: 09/03/2021
